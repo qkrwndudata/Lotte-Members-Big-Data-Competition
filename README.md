@@ -1,4 +1,4 @@
-# 7th Lotte-Members-Big-Data-Contest
+# 7th-Lotte-Members-Big-Data-Contest
 Develop predictive model based on customer purchase data and propose a personalized marketing strategy
 
 
